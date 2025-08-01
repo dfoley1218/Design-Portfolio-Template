@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s01uask",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0cu",
+  
   "scripts": {
     "start": "vite",
     "dev": "vite",
